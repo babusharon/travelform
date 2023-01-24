@@ -1,0 +1,35 @@
+input[type=text] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+
+  input[type=email]{
+
+     width: 50%;
+     padding: 12px 20px;
+     margin: 8px 0;
+     box-sizing: border-box;
+  }
+
+  select{
+    
+        width: 50%;
+        padding: 16px 20px;
+        border: none;
+        border-radius: 4px;
+        background-color: #f1f1f1;
+     
+  }
+ .first{
+
+    /*border:2px solid;*/
+    padding: 30px;
+    width: 500px;
+    margin: auto;
+    background-color: rgb(225, 218, 209);
+
+ }
+
+  
